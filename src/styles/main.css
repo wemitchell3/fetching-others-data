@@ -1,0 +1,9 @@
+#food {
+    display: flex;
+}
+.food {
+    /* text-align: center; */
+    border-style: solid;
+    padding: 10px;
+    margin: 5px;
+}
